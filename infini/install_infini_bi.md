@@ -6,7 +6,7 @@
    - [Docker 19.03 or higher](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
    - [Docker Compose](https://docs.docker.com/compose/install/)
 2. 请确认已安装 MegaWise ，开启MegaWise服务并导入示例数据
-   - [安装 Megawise](install_infini_sql.md)
+   - [安装 Megawise](../megawise/install_infini_sql.md)
 
 
 
@@ -83,7 +83,7 @@
 
 现在可以看到登录界面
 
-![login](./assets/login.png)
+![login](../assets/login.png)
 
 **输入用户名和密码进行登录：**
 
@@ -95,7 +95,7 @@
 
 ![fill-megawise-info](./assets/fill-megawise-info.png)
 
-![dashboard-list](./assets/dashboard-list.png)
+![dashboard-list](../assets/dashboard-list.png)
 
 单击New York Taxi Boards，出现以下界面
 
