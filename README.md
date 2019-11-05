@@ -9,7 +9,4 @@
 > 2. Picasso 图形渲染引擎
 > 3. Infini 可视化交互分析界面
 
-
-## [ZILLIZ Analytics 白皮书](white_paper.md)
-
 产品体验请联系：support@zilliz.com
