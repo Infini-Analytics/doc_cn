@@ -83,7 +83,7 @@
 
 现在可以看到登录界面
 
-![login](../assets/login.png)
+![login](../assets/Login.png)
 
 **输入用户名和密码进行登录：**
 
@@ -93,15 +93,15 @@
 ## 填写Megawise数据库信息
 登录后，输入相关信息后，点击保存，界面就会跳转到仪表盘页面
 
-![fill-megawise-info](./assets/fill-megawise-info.png)
+![fill-megawise-info](../assets/fill-megawise-info.png)
 
 ![dashboard-list](../assets/dashboard-list.png)
 
 单击New York Taxi Boards，出现以下界面
 
-![New York Taxi data](./assets/nyc-demo.png)
+![New York Taxi data](../assets/nyc-demo.png)
 
-如果你可以看到以上界面，说明Infini 可视化组件已经成功启动了  
+如果你可以看到以上界面，说明 Infini 可视化组件已经成功启动了  
 
 
 
