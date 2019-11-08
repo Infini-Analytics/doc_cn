@@ -1,9 +1,9 @@
 ---
-id:"analytics_quick_start"
-lang:"cn"
-title:"安装 MegaWise"
-label1:"用户手册"
-label2:"MegaWise"
+id: "install_megawise"
+lang: "cn"
+title: "安装 MegaWise"
+label1: "用户手册"
+label2: "MegaWise"
 ---
 
 # 安装 MegaWise
