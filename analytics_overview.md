@@ -1,8 +1,8 @@
 ---
-id:"analytics_overview"
-lang:"cn"
-title:"ZILLIZ Analytics"
-label1:"用户手册"
+id: "analytics_overview"
+lang: "cn"
+title: "ZILLIZ Analytics"
+label1: "用户手册"
 ---
 # ZILLIZ Analytics
 
