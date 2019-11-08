@@ -1,3 +1,9 @@
+---
+id: "install_infini"
+lang: "cn"
+title: "安装 Infini 可视化交互分析界面"
+label1: "Infini"
+---
 # 安装 Infini 可视化交互分析界面
 
 ## 安装前提
