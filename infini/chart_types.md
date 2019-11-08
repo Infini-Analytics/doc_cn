@@ -2,7 +2,9 @@
 id: "chart_types"
 lang: "cn"
 title: "Infini 可视化交互分析界面类型"
-label1: "Infini"
+label1: "ZILLIZ Analytics"
+label2: "用户手册"
+label3: "Infini"
 ---
 
 # Infini 可视化交互分析界面类型
