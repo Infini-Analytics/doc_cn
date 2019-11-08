@@ -1,4 +1,10 @@
-# MegaWise
+---
+id: "megawise_intro"
+lang: "cn"
+title: "MegaWise 介绍"
+label1: "MegaWise"
+---
+# MegaWise 介绍
 
 ## 前言
 
