@@ -2,7 +2,9 @@
 id: "add_dashboard"
 lang: "cn"
 title: "添加新的仪表盘"
-label1: "Infini"
+label1: "ZILLIZ Analytics"
+label2: "用户手册"
+label3: "Infini"
 ---
 # 添加新的仪表盘
 
