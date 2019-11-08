@@ -2,7 +2,9 @@
 id: "install_infini"
 lang: "cn"
 title: "安装 Infini 可视化交互分析界面"
-label1: "Infini"
+label1: "ZILLIZ Analytics"
+label2: "用户手册"
+label3: "Infini"
 ---
 # 安装 Infini 可视化交互分析界面
 
