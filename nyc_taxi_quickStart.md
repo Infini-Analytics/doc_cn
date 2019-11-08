@@ -1,8 +1,8 @@
 ---
-id:"analytics_quick_start"
-lang:"cn"
-title:"ZILLIZ Analytics 快速入门"
-label1:"用户手册"
+id: "analytics_quick_start"
+lang: "cn"
+title: "ZILLIZ Analytics 快速入门"
+label1: "用户手册"
 ---
 
 # ZILLIZ Analytics 快速入门
