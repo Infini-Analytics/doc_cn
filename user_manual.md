@@ -1,8 +1,8 @@
 ---
-id:"user_manual"
-lang:"cn"
-title:"用户手册"
-label1:"ZILLIZ Analytics"
+id: "user_manual"
+lang: "cn"
+title: "用户手册"
+label1: "ZILLIZ Analytics"
 ---
 
 
