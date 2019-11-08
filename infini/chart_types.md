@@ -1,3 +1,10 @@
+---
+id: "chart_types"
+lang: "cn"
+title: "Infini 可视化交互分析界面类型"
+label1: "Infini"
+---
+
 # Infini 可视化交互分析界面类型
 
 Infini 提供从最简单的数图到地图。
