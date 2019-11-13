@@ -1,3 +1,11 @@
+---
+id: "install_infini"
+lang: "cn"
+title: "安装 Infini 可视化交互分析界面"
+label1: "ZILLIZ Analytics"
+label2: "用户手册"
+label3: "Infini"
+---
 # 安装 Infini 可视化交互分析界面
 
 ## 安装前提
@@ -6,7 +14,7 @@
    - [Docker 19.03 or higher](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
    - [Docker Compose](https://docs.docker.com/compose/install/)
 2. 请确认已安装 MegaWise ，开启MegaWise服务并导入示例数据
-   - [安装 Megawise](install_infini_sql.md)
+   - [安装 Megawise](../megawise/install_infini_sql.md)
 
 
 
@@ -83,7 +91,7 @@
 
 现在可以看到登录界面
 
-![login](./assets/login.png)
+![login](../assets/Login.png)
 
 **输入用户名和密码进行登录：**
 
@@ -93,15 +101,15 @@
 ## 填写Megawise数据库信息
 登录后，输入相关信息后，点击保存，界面就会跳转到仪表盘页面
 
-![fill-megawise-info](./assets/fill-megawise-info.png)
+![fill-megawise-info](../assets/fill-megawise-info.png)
 
-![dashboard-list](./assets/dashboard-list.png)
+![dashboard-list](../assets/dashboard-list.png)
 
 单击New York Taxi Boards，出现以下界面
 
-![New York Taxi data](./assets/nyc-demo.png)
+![New York Taxi data](../assets/nyc-demo.png)
 
-如果你可以看到以上界面，说明Infini 可视化组件已经成功启动了  
+如果你可以看到以上界面，说明 Infini 可视化组件已经成功启动了  
 
 
 

@@ -1,3 +1,11 @@
+---
+id: "install_megawise"
+lang: "cn"
+title: "安装 MegaWise"
+label1: "ZILLIZ Analytics"
+label2: "用户手册"
+label3: "MegaWise"
+---
 
 # 安装 MegaWise
 
